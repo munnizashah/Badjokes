@@ -12,11 +12,6 @@ header {
   background-position: center;
 }
 
-/* .container {
-    display: flex;
-    flex-direction: column;
-} */
-
 .my-jokes {
   font-size: 3rem;
   background-color: grey;

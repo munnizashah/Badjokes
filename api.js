@@ -7,7 +7,7 @@ async function jokes () {
     const setup = data.setup;
     console.log(data.setup)
     const punchline = data.punchline;
-    document.getElementById('myjokes ').innerHTML = setup + " ";
+    document.getElementById('myjokes').innerHTML = setup + " ";
 
     document.getElementById("button").addEventListener("click", myFunction);
 
